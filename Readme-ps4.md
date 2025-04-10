@@ -43,7 +43,9 @@ List all sources of help including the instructor or TAs, classmates, and web pa
 If you used images or other resources than the ones provided, list them here.
 
 Trumpets.wav - https://www.jamendo.com/start
+
 Roboto.txt - https://fonts.google.com/
+
 image.png - https://i.ytimg.com/vi/R8qqu3laqO4/maxresdefault.jpg
 
 Kenney Sokoban Pack (CC0): https://kenney.nl/assets/sokoban
